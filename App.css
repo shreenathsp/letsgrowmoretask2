@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gluten:wght@200&display=swap");
+
+body {
+    background-color:rgb(99, 126, 134);
+    font-family: 'Grechen Fuemen', cursive;
+    text-align: center;
+    color: white;    
+    /* background-color: #070617; */
+}
+
+img{
+  border-radius: 100%;
+}
+
+h1{
+  font-size: 100px;
+}
+.button{
+  border-radius: 20rem;
+  height: 40px;
+  width:100px;
+  background-color: white;
+}
+.button:hover{
+  Background-color: grey;
+}
+
+.profileImg {
+  position: absolute;
+  left: 25%;
+}
+
+.table{
+  width: 100%;
+  padding: 10px;
+  border: 1px;
+  }
+  .navbar{
+    font-family: 'Gluten', cursive;
+    height: 70px;
+    background-color: black;
+    opacity: 25%;
+    font-weight: bold;
+    font-size: 70px;
+
+  }
